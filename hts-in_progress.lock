@@ -1,0 +1,7 @@
+Mirror in progress since Wed, 06 Dec 2023 01:13:48 .. please wait!
+httrack -O /storage/emulated/0/HTTrack/Websites/damned -A25000k%Px%q0u1s2%s%u%fDaK0H0N0p3 https://damnedgame.online +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2017], %s -->" -%l LANGUAGE_ISO,* 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=14146
+UID=10290
+GID=10290
+START=1701814428
